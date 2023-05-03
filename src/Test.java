@@ -1,5 +1,5 @@
 public class Test {
-    public static void test(){
+    public void test(){
         System.out.println("Hello world!");
     }
 }
